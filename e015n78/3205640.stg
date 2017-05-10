@@ -6,3 +6,5 @@ OBJECT_SHARED Models/Airport/localizer.xml 15.520225 78.243067 21.94 195.42
 OBJECT_SHARED Models/Airport/big-hangar.ac 15.4973275 78.2468177 21.57 76
 OBJECT_SHARED Models/Airport/big-hangar.ac 15.4973275 78.2468177 21.57 76
 OBJECT_SHARED Models/Airport/tower.xml 15.4958066 78.2468369 21.81 344
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac 15.5001774 78.2464027 21.91 168
+OBJECT_SHARED Models/Aircraft/dhc6_blue_lowpoly.ac 15.5012557 78.2463464 21.81 168
