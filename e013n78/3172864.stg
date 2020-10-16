@@ -1,1 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac 13.600306 78.061333 -0.31 180
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 13.61499 78.06232 -25.11 0
+OBJECT_SHARED Models/Communications/mil-antena-45m.xml 13.61706 78.062093 -10.04 0
+OBJECT_SHARED Models/Industrial/generic_tank_010m_grey.ac 13.620172 78.062568 -0.03 0
+OBJECT_SHARED Models/Communications/GBO_25M.ac 13.614818 78.062047 -0.09 190
